@@ -1,0 +1,55 @@
+{
+  "additionalFilePaths": [
+    "Telegram/BUILD"
+  ],
+  "buildTargets": [
+    "//Telegram:Telegram"
+  ],
+  "optionSet": {
+    "BazelBuildOptionsDebug": {
+      "p": "$(inherited) --override_repository=build_configuration=/Users/ivanzaharov/Desktop/learning/Telegram-iOS/build-input/configuration-repository --announce_rc --features=swift.use_global_module_cache --verbose_failures --experimental_remote_cache_async --features=swift.enable_batch_mode --swiftcopt=-j7 --define=buildNumber=10000 --define=telegramVersion=9.4.2 --disk_cache=/Users/ivanzaharov/telegram-bazel-cache --//Telegram:disableExtensions"
+    },
+    "BazelBuildOptionsRelease": {
+      "p": "$(inherited) --override_repository=build_configuration=/Users/ivanzaharov/Desktop/learning/Telegram-iOS/build-input/configuration-repository --announce_rc --features=swift.use_global_module_cache --verbose_failures --experimental_remote_cache_async --features=swift.enable_batch_mode --swiftcopt=-j7 --define=buildNumber=10000 --define=telegramVersion=9.4.2 --disk_cache=/Users/ivanzaharov/telegram-bazel-cache --//Telegram:disableExtensions"
+    },
+    "BazelBuildStartupOptionsDebug": {
+      "p": "$(inherited)"
+    },
+    "BazelBuildStartupOptionsRelease": {
+      "p": "$(inherited)"
+    },
+    "BuildActionPostActionScript": {
+      "p": "$(inherited)"
+    },
+    "BuildActionPreActionScript": {
+      "p": "$(inherited)"
+    },
+    "CommandlineArguments": {
+      "p": "$(inherited)"
+    },
+    "EnvironmentVariables": {
+      "p": "$(inherited)"
+    },
+    "LaunchActionPostActionScript": {
+      "p": "$(inherited)"
+    },
+    "LaunchActionPreActionScript": {
+      "p": "$(inherited)"
+    },
+    "ProjectGenerationBazelStartupOptions": {
+      "p": "$(inherited)"
+    },
+    "TestActionPostActionScript": {
+      "p": "$(inherited)"
+    },
+    "TestActionPreActionScript": {
+      "p": "$(inherited)"
+    }
+  },
+  "projectName": "Telegram",
+  "sourceFilters": [
+    "Telegram/...",
+    "submodules/...",
+    "third-party/..."
+  ]
+}

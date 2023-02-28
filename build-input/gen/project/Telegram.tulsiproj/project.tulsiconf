@@ -1,0 +1,17 @@
+{
+  "configDefaults" : {
+    "optionSet" : {
+      "BazelBuildOptionsDebug" : {
+        "p" : "--override_repository=build_configuration=/Users/ivanzaharov/Desktop/learning/Telegram-iOS/build-input/configuration-repository --//Telegram:disableExtensions --//Telegram:disableStripping --strip=never"
+      },
+      "BazelBuildOptionsRelease" : {
+        "p" : "--override_repository=build_configuration=/Users/ivanzaharov/Desktop/learning/Telegram-iOS/build-input/configuration-repository --//Telegram:disableExtensions --//Telegram:disableStripping --strip=never"
+      }
+    }
+  },
+  "packages" : [
+    "Telegram"
+  ],
+  "projectName" : "Telegram",
+  "workspaceRoot" : "../../../.."
+}

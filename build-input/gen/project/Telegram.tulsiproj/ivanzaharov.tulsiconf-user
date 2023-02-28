@@ -1,0 +1,10 @@
+{
+  "optionSet" : {
+    "BazelPath" : {
+      "p" : "/Users/ivanzaharov/Desktop/learning/Telegram-iOS/build-input/gen/project/bazel"
+    },
+    "WorkspaceRootPath" : {
+      "p" : "/Users/ivanzaharov/Desktop/learning/Telegram-iOS"
+    }
+  }
+}
