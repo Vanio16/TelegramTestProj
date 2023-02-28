@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4C77D038-1B7C-4B91-B89E-14292FCE182A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85538C13-9010-415B-ADDB-90DFBBDDA741"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../submodules/CallListUI/Sources/CallListControllerNode.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "348"
+            endingLineNumber = "348"
+            landmarkName = "init(controller:context:mode:presentationData:call:joinGroupCall:openInfo:emptyStateUpdated:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "85538C13-9010-415B-ADDB-90DFBBDDA741 - 9449295d168b7e2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallListUI.CallListControllerNode.init(controller: CallListUI.CallListController, context: AccountContext.AccountContext, mode: CallListUI.CallListControllerMode, presentationData: TelegramPresentationData.PresentationData, call: (Postbox.PeerId, Swift.Bool) -&gt; (), joinGroupCall: (Postbox.PeerId, TelegramCore.EngineGroupCallDescription) -&gt; (), openInfo: (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; (), emptyStateUpdated: (Swift.Bool) -&gt; ()) -&gt; CallListUI.CallListControllerNode"
+                  moduleName = "TelegramUIFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///submodules/CallListUI/Sources/CallListControllerNode.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "345"
+                  endingLineNumber = "345"
+                  offsetFromSymbolStart = "7688">
+               </Location>
+               <Location
+                  uuid = "85538C13-9010-415B-ADDB-90DFBBDDA741 - d20d850e3109ef30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #6 (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; () in CallListUI.CallListControllerNode.init(controller: CallListUI.CallListController, context: AccountContext.AccountContext, mode: CallListUI.CallListControllerMode, presentationData: TelegramPresentationData.PresentationData, call: (Postbox.PeerId, Swift.Bool) -&gt; (), joinGroupCall: (Postbox.PeerId, TelegramCore.EngineGroupCallDescription) -&gt; (), openInfo: (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; (), emptyStateUpdated: (Swift.Bool) -&gt; ()) -&gt; CallListUI.CallListControllerNode"
+                  moduleName = "TelegramUIFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///submodules/CallListUI/Sources/CallListControllerNode.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "345"
+                  endingLineNumber = "345"
+                  offsetFromSymbolStart = "1240">
+               </Location>
+               <Location
+                  uuid = "85538C13-9010-415B-ADDB-90DFBBDDA741 - 1ff614f1e926f9c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #7 (Swift.Array&lt;Postbox.MessageId&gt;) -&gt; () in CallListUI.CallListControllerNode.init(controller: CallListUI.CallListController, context: AccountContext.AccountContext, mode: CallListUI.CallListControllerMode, presentationData: TelegramPresentationData.PresentationData, call: (Postbox.PeerId, Swift.Bool) -&gt; (), joinGroupCall: (Postbox.PeerId, TelegramCore.EngineGroupCallDescription) -&gt; (), openInfo: (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; (), emptyStateUpdated: (Swift.Bool) -&gt; ()) -&gt; CallListUI.CallListControllerNode"
+                  moduleName = "TelegramUIFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///submodules/CallListUI/Sources/CallListControllerNode.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "345"
+                  endingLineNumber = "345"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "85538C13-9010-415B-ADDB-90DFBBDDA741 - f6d957190066e79d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;TelegramCore.EnginePeer&gt;) -&gt; () in closure #7 (Swift.Array&lt;Postbox.MessageId&gt;) -&gt; () in CallListUI.CallListControllerNode.init(controller: CallListUI.CallListController, context: AccountContext.AccountContext, mode: CallListUI.CallListControllerMode, presentationData: TelegramPresentationData.PresentationData, call: (Postbox.PeerId, Swift.Bool) -&gt; (), joinGroupCall: (Postbox.PeerId, TelegramCore.EngineGroupCallDescription) -&gt; (), openInfo: (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; (), emptyStateUpdated: (Swift.Bool) -&gt; ()) -&gt; CallListUI.CallListControllerNode"
+                  moduleName = "TelegramUIFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///submodules/CallListUI/Sources/CallListControllerNode.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "345"
+                  endingLineNumber = "345"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "85538C13-9010-415B-ADDB-90DFBBDDA741 - 93d037f6170d259"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;TelegramCore.EnginePeer&gt;) -&gt; () in closure #7 (Swift.Array&lt;Postbox.MessageId&gt;) -&gt; () in CallListUI.CallListControllerNode.init(controller: CallListUI.CallListController, context: AccountContext.AccountContext, mode: CallListUI.CallListControllerMode, presentationData: TelegramPresentationData.PresentationData, call: (Postbox.PeerId, Swift.Bool) -&gt; (), joinGroupCall: (Postbox.PeerId, TelegramCore.EngineGroupCallDescription) -&gt; (), openInfo: (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; (), emptyStateUpdated: (Swift.Bool) -&gt; ()) -&gt; CallListUI.CallListControllerNode"
+                  moduleName = "TelegramUIFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///submodules/CallListUI/Sources/CallListControllerNode.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "345"
+                  endingLineNumber = "345"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "85538C13-9010-415B-ADDB-90DFBBDDA741 - d3500c8abab82c58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 (Swift.Optional&lt;TelegramCore.EnginePeer&gt;) -&gt; () in closure #7 (Swift.Array&lt;Postbox.MessageId&gt;) -&gt; () in CallListUI.CallListControllerNode.init(controller: CallListUI.CallListController, context: AccountContext.AccountContext, mode: CallListUI.CallListControllerMode, presentationData: TelegramPresentationData.PresentationData, call: (Postbox.PeerId, Swift.Bool) -&gt; (), joinGroupCall: (Postbox.PeerId, TelegramCore.EngineGroupCallDescription) -&gt; (), openInfo: (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; (), emptyStateUpdated: (Swift.Bool) -&gt; ()) -&gt; CallListUI.CallListControllerNode"
+                  moduleName = "TelegramUIFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///submodules/CallListUI/Sources/CallListControllerNode.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "345"
+                  endingLineNumber = "345"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "85538C13-9010-415B-ADDB-90DFBBDDA741 - 9449295d168b7eaf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallListUI.CallListControllerNode.init(controller: CallListUI.CallListController, context: AccountContext.AccountContext, mode: CallListUI.CallListControllerMode, presentationData: TelegramPresentationData.PresentationData, call: (Postbox.PeerId, Swift.Bool) -&gt; (), joinGroupCall: (Postbox.PeerId, TelegramCore.EngineGroupCallDescription) -&gt; (), openInfo: (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; (), emptyStateUpdated: (Swift.Bool) -&gt; ()) -&gt; CallListUI.CallListControllerNode"
+                  moduleName = "TelegramUIFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///submodules/CallListUI/Sources/CallListControllerNode.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "349"
+                  endingLineNumber = "349"
+                  offsetFromSymbolStart = "7688">
+               </Location>
+               <Location
+                  uuid = "85538C13-9010-415B-ADDB-90DFBBDDA741 - d20d850e3109efb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #6 (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; () in CallListUI.CallListControllerNode.init(controller: CallListUI.CallListController, context: AccountContext.AccountContext, mode: CallListUI.CallListControllerMode, presentationData: TelegramPresentationData.PresentationData, call: (Postbox.PeerId, Swift.Bool) -&gt; (), joinGroupCall: (Postbox.PeerId, TelegramCore.EngineGroupCallDescription) -&gt; (), openInfo: (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; (), emptyStateUpdated: (Swift.Bool) -&gt; ()) -&gt; CallListUI.CallListControllerNode"
+                  moduleName = "TelegramUIFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///submodules/CallListUI/Sources/CallListControllerNode.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "349"
+                  endingLineNumber = "349"
+                  offsetFromSymbolStart = "1052">
+               </Location>
+               <Location
+                  uuid = "85538C13-9010-415B-ADDB-90DFBBDDA741 - 1ff614f1e926f942"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #7 (Swift.Array&lt;Postbox.MessageId&gt;) -&gt; () in CallListUI.CallListControllerNode.init(controller: CallListUI.CallListController, context: AccountContext.AccountContext, mode: CallListUI.CallListControllerMode, presentationData: TelegramPresentationData.PresentationData, call: (Postbox.PeerId, Swift.Bool) -&gt; (), joinGroupCall: (Postbox.PeerId, TelegramCore.EngineGroupCallDescription) -&gt; (), openInfo: (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; (), emptyStateUpdated: (Swift.Bool) -&gt; ()) -&gt; CallListUI.CallListControllerNode"
+                  moduleName = "TelegramUIFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///submodules/CallListUI/Sources/CallListControllerNode.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "349"
+                  endingLineNumber = "349"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5163685D-047C-4897-8BEC-637BD58BD9DB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../submodules/CallListUI/Sources/CallListController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "221"
+            endingLineNumber = "221"
+            landmarkName = "loadDisplayNode()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5163685D-047C-4897-8BEC-637BD58BD9DB - 284564ccdc1ecb8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;TelegramCore.EnginePeer&gt;) -&gt; () in closure #3 (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; () in CallListUI.CallListController.loadDisplayNode() -&gt; ()"
+                  moduleName = "TelegramUIFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///submodules/CallListUI/Sources/CallListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "221"
+                  endingLineNumber = "221"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "5163685D-047C-4897-8BEC-637BD58BD9DB - 284564ccdc1ecb8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;TelegramCore.EnginePeer&gt;) -&gt; () in closure #3 (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; () in CallListUI.CallListController.loadDisplayNode() -&gt; ()"
+                  moduleName = "TelegramUIFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///submodules/CallListUI/Sources/CallListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "221"
+                  endingLineNumber = "221"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "5163685D-047C-4897-8BEC-637BD58BD9DB - 284564ccdc1ecb8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;TelegramCore.EnginePeer&gt;) -&gt; () in closure #3 (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; () in CallListUI.CallListController.loadDisplayNode() -&gt; ()"
+                  moduleName = "TelegramUIFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///submodules/CallListUI/Sources/CallListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "221"
+                  endingLineNumber = "221"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "5163685D-047C-4897-8BEC-637BD58BD9DB - 284564ccdc1ecb8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;TelegramCore.EnginePeer&gt;) -&gt; () in closure #3 (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; () in CallListUI.CallListController.loadDisplayNode() -&gt; ()"
+                  moduleName = "TelegramUIFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///submodules/CallListUI/Sources/CallListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "221"
+                  endingLineNumber = "221"
+                  offsetFromSymbolStart = "816">
+               </Location>
+               <Location
+                  uuid = "5163685D-047C-4897-8BEC-637BD58BD9DB - 2eb87a7221c8aff1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TelegramCore.EngineMessage) -&gt; Postbox.Message in closure #1 (Swift.Optional&lt;TelegramCore.EnginePeer&gt;) -&gt; () in closure #3 (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; () in CallListUI.CallListController.loadDisplayNode() -&gt; ()"
+                  moduleName = "TelegramUIFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///submodules/CallListUI/Sources/CallListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "221"
+                  endingLineNumber = "221"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7161756B-AFFA-4DC6-BB91-C9A9AB786DCE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../submodules/CallListUI/Sources/CallListController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "222"
+            endingLineNumber = "222"
+            landmarkName = "loadDisplayNode()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2416E59-05CF-4DC4-80EB-B0A5E8664830"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../submodules/TelegramUI/Sources/SharedAccountContext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1621"
+            endingLineNumber = "1621"
+            landmarkName = "peerInfoControllerImpl(context:updatedPresentationData:peer:mode:avatarInitiallyExpanded:isOpenedFromChat:requestsContext:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D3E398D-840A-4113-9F4A-9B038712DB03"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../submodules/TelegramUI/Sources/PeerInfo/PeerInfoScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "990"
+            endingLineNumber = "990"
+            landmarkName = "infoItems(data:context:presentationData:interaction:nearbyPeerDistance:reactionSourceMessageId:callMessages:chatLocation:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "499984DC-8D37-4CAE-8652-00D73C75EE1A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../submodules/TelegramUI/Sources/PeerInfo/PeerInfoScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8620"
+            endingLineNumber = "8620"
+            landmarkName = "containerLayoutUpdated(layout:navigationHeight:transition:additive:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E551D3A8-867D-411A-A8AC-2EF88B2A944D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../submodules/CallListUI/Sources/CallListControllerNode.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "341"
+            endingLineNumber = "341"
+            landmarkName = "init(controller:context:mode:presentationData:call:joinGroupCall:openInfo:emptyStateUpdated:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E551D3A8-867D-411A-A8AC-2EF88B2A944D - 9313b7485c6b6a9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data) -&gt; () in closure #6 (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; () in CallListUI.CallListControllerNode.init(controller: CallListUI.CallListController, context: AccountContext.AccountContext, mode: CallListUI.CallListControllerMode, presentationData: TelegramPresentationData.PresentationData, call: (Postbox.PeerId, Swift.Bool) -&gt; (), joinGroupCall: (Postbox.PeerId, TelegramCore.EngineGroupCallDescription) -&gt; (), openInfo: (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; (), emptyStateUpdated: (Swift.Bool) -&gt; ()) -&gt; CallListUI.CallListControllerNode"
+                  moduleName = "TelegramUIFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///submodules/CallListUI/Sources/CallListControllerNode.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "340"
+                  endingLineNumber = "340"
+                  offsetFromSymbolStart = "692">
+               </Location>
+               <Location
+                  uuid = "E551D3A8-867D-411A-A8AC-2EF88B2A944D - 9313b7485c6b6a9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data) -&gt; () in closure #6 (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; () in CallListUI.CallListControllerNode.init(controller: CallListUI.CallListController, context: AccountContext.AccountContext, mode: CallListUI.CallListControllerMode, presentationData: TelegramPresentationData.PresentationData, call: (Postbox.PeerId, Swift.Bool) -&gt; (), joinGroupCall: (Postbox.PeerId, TelegramCore.EngineGroupCallDescription) -&gt; (), openInfo: (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; (), emptyStateUpdated: (Swift.Bool) -&gt; ()) -&gt; CallListUI.CallListControllerNode"
+                  moduleName = "TelegramUIFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///submodules/CallListUI/Sources/CallListControllerNode.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "340"
+                  endingLineNumber = "340"
+                  offsetFromSymbolStart = "808">
+               </Location>
+               <Location
+                  uuid = "E551D3A8-867D-411A-A8AC-2EF88B2A944D - 9313b7485c6b695c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data) -&gt; () in closure #6 (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; () in CallListUI.CallListControllerNode.init(controller: CallListUI.CallListController, context: AccountContext.AccountContext, mode: CallListUI.CallListControllerMode, presentationData: TelegramPresentationData.PresentationData, call: (Postbox.PeerId, Swift.Bool) -&gt; (), joinGroupCall: (Postbox.PeerId, TelegramCore.EngineGroupCallDescription) -&gt; (), openInfo: (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; (), emptyStateUpdated: (Swift.Bool) -&gt; ()) -&gt; CallListUI.CallListControllerNode"
+                  moduleName = "TelegramUIFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///submodules/CallListUI/Sources/CallListControllerNode.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "342"
+                  endingLineNumber = "342"
+                  offsetFromSymbolStart = "1084">
+               </Location>
+               <Location
+                  uuid = "E551D3A8-867D-411A-A8AC-2EF88B2A944D - da9ff3d852e47bd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TelegramCore.EngineMessage) -&gt; TelegramCore.EngineMessage in closure #1 (Foundation.Data) -&gt; () in closure #6 (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; () in CallListUI.CallListControllerNode.init(controller: CallListUI.CallListController, context: AccountContext.AccountContext, mode: CallListUI.CallListControllerMode, presentationData: TelegramPresentationData.PresentationData, call: (Postbox.PeerId, Swift.Bool) -&gt; (), joinGroupCall: (Postbox.PeerId, TelegramCore.EngineGroupCallDescription) -&gt; (), openInfo: (Postbox.PeerId, Swift.Array&lt;TelegramCore.EngineMessage&gt;) -&gt; (), emptyStateUpdated: (Swift.Bool) -&gt; ()) -&gt; CallListUI.CallListControllerNode"
+                  moduleName = "TelegramUIFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///submodules/CallListUI/Sources/CallListControllerNode.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "343"
+                  endingLineNumber = "343"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
